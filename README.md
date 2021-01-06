@@ -1,6 +1,11 @@
-# Front End Development Practice Projects
+# Front End Development Projects
 
-## Repos
+## Proof Of Concept Project Repos
+* [Nature Tours Agency](https://github.com/paulAlexSerban/PWC-Nature-Tours)
+* [Real Estate Agency](https://github.com/paulAlexSerban/PWC-Real-Estate-Agency)
+* [Film Festival](https://github.com/paulAlexSerban/CSS-Bootstrap-Boston-Film-Festival)
+
+## Practice Repos
 
 ### HTML - CSS - JS
 * [Pig Game - JS](https://github.com/paulAlexSerban/JS-Pig-Game)

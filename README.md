@@ -3,6 +3,7 @@
 ## Proof Of Concept Project Repos
 * [Nature Tours Agency - Landing Page](https://github.com/paulAlexSerban/PWC-Nature-Tours)
 * [Real Estate Agency - Landing Page](https://github.com/paulAlexSerban/PWC-Real-Estate-Agency)
+* [Booking App - All in One App](https://github.com/paulAlexSerban/PWC-Booking-App---All-in-One)
 * [Film Festival - Landing Page](https://github.com/paulAlexSerban/CSS-Bootstrap-Boston-Film-Festival)
 
 ## Practice Repos

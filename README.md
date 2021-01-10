@@ -1,8 +1,6 @@
 # Front End Development Projects
 
 ## Proof Of Concept Project Repos
-* [Real Estate Agency - Landing Page](https://github.com/paulAlexSerban/PWC-Real-Estate-Agency)
-* [Booking App - All in One App](https://github.com/paulAlexSerban/PWC-Booking-App---All-in-One)
 * [Nature Tours Agency - Landing Page](https://github.com/paulAlexSerban/PWC-Nature-Tours)
 * [Film Festival - Landing Page](https://github.com/paulAlexSerban/CSS-Bootstrap-Boston-Film-Festival)
 

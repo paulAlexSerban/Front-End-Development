@@ -18,6 +18,6 @@
 * [Directory Explorer and File Reader - NodeJS](https://github.com/paulAlexSerban/NodeJS-Directory-Explorer-and-File-Reader);
 * [Language Detector - NodeJS](https://github.com/paulAlexSerban/NodeJS-Language-Detector)
 
-#### Miscellaneous Technologies
-### XML Technologies
+### Miscellaneous Technologies
+#### XML Technologies
 * [XML - XSLT - XPath - XQuery](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)

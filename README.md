@@ -20,6 +20,7 @@
 
 #### ES2015 Concepts
 * [Iterators and Generators](https://github.com/paulAlexSerban/ES2015---Iterators-and-Generators)
+* [Deconstruction](https://github.com/paulAlexSerban/ES2015---Desconstruction)
 
 ### Miscellaneous Technologies
 #### XML Technologies

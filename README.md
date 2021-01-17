@@ -23,18 +23,6 @@
 * [Iterators and Generators](https://github.com/paulAlexSerban/ES2015---Iterators-and-Generators)
 * [Deconstruction](https://github.com/paulAlexSerban/ES2015---Desconstruction)
 
-#### freeCodeCamp.org
-##### JavaScript Algorithms and Data Structures Certification Projects
-
-
-<details>
-<summary>Practice Projects</summary>
- <li> [Basic JavaScript]()</li>
-  * [Basic JavaScript]()
-</detail s>
-
-##### Responsive Web Design Certification Projects
-
 ### Miscellaneous Technologies
 #### XML Technologies
 * [XML - XSLT - XPath - XQuery](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)

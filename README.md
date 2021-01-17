@@ -29,7 +29,7 @@
 
 <details>
 <summary>Practice Projects</summary>
-  * [Basic JavaScript]()
+ <li> [Basic JavaScript]()</li>
   * [Basic JavaScript]()
 </detail s>
 

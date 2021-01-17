@@ -24,12 +24,16 @@
 * [Deconstruction](https://github.com/paulAlexSerban/ES2015---Desconstruction)
 
 #### freeCodeCamp.org
-##### JavaScript Algorithms and Data Structures
+##### JavaScript Algorithms and Data Structures Certification Projects
+
+
 <details>
-<summary>Basic JavaScript</summary>
-* practice one
-* practice two
-</details>
+<summary>Practice Projects</summary>
+  * [Basic JavaScript]()
+  * [Basic JavaScript]()
+</detail s>
+
+##### Responsive Web Design Certification Projects
 
 ### Miscellaneous Technologies
 #### XML Technologies

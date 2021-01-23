@@ -1,8 +1,10 @@
 # Front End Development Projects
 
 ## Proof Of Concept Project Repos
-* [Nature Tours Agency - Landing Page](https://github.com/paulAlexSerban/PWC-Nature-Tours)
+* [Art Brief Bag - An Architect's Portfolio](https://github.com/paulAlexSerban/PWC-Art-Brief-Bag)
+* [Trillo - All in One Bookings](https://github.com/paulAlexSerban/PWC-Trillo-All-in-One-Bookings)
 * [Travel Agency - Landing Page](https://github.com/paulAlexSerban/Travel-Agency-Landing-Page)
+* [Nature Tours Agency - Landing Page](https://github.com/paulAlexSerban/PWC-Nature-Tours)
 * [Film Festival - Landing Page](https://github.com/paulAlexSerban/CSS-Bootstrap-Boston-Film-Festival)
 
 ## Practice Repos

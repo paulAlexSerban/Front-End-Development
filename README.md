@@ -18,6 +18,7 @@
 
 ### JavaScript - NodeJS
 * [Basic Vanilla Server - NodeJS](https://github.com/paulAlexSerban/NodeJS-Basic-Vanilla-Server)
+* [WebP Image Converter - NodeJS](https://github.com/paulAlexSerban/NodeJS-WebP-Image-Converter)
 * [Directory Explorer and File Reader - NodeJS](https://github.com/paulAlexSerban/NodeJS-Directory-Explorer-and-File-Reader);
 * [Language Detector - NodeJS](https://github.com/paulAlexSerban/NodeJS-Language-Detector)
 

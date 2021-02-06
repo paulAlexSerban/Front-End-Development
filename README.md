@@ -28,6 +28,9 @@
 * [Iterators and Generators](https://github.com/paulAlexSerban/ES2015---Iterators-and-Generators)
 * [Deconstruction](https://github.com/paulAlexSerban/ES2015---Desconstruction)
 
+#### Templating
+* [EJS Templating HTML - NodeJS](https://github.com/paulAlexSerban/EJS-Templating-HTML---NodeJS)
+
 ### Miscellaneous Technologies
 #### XML Technologies
 * [XML - XSLT - XPath - XQuery](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)

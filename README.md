@@ -18,7 +18,7 @@
 * [Score Keeper App. - JS](https://github.com/paulAlexSerban/JS-Score-Keeper-App)
 
 ### JavaScript - NodeJS
-* [Basic ExpressJS Server - NodeJS](https://github.com/paulAlexSerban/Basic-ExpressJS-Server---NodeJS)
+* [Basic ExpressJS Server - ExpressJS](https://github.com/paulAlexSerban/Basic-ExpressJS-Server---NodeJS)
 * [Basic Vanilla Server - NodeJS](https://github.com/paulAlexSerban/NodeJS-Basic-Vanilla-Server)
 * [WebP Image Converter - NodeJS](https://github.com/paulAlexSerban/NodeJS-WebP-Image-Converter)
 * [Directory Explorer and File Reader - NodeJS](https://github.com/paulAlexSerban/NodeJS-Directory-Explorer-and-File-Reader);
@@ -29,7 +29,7 @@
 * [Deconstruction](https://github.com/paulAlexSerban/ES2015---Desconstruction)
 
 #### Templating
-* [EJS Templating HTML - NodeJS](https://github.com/paulAlexSerban/EJS-Templating-HTML---NodeJS)
+* [EJS Templating HTML - ExpressJS](https://github.com/paulAlexSerban/EJS-Templating-HTML---NodeJS)
 
 ### Miscellaneous Technologies
 #### XML Technologies

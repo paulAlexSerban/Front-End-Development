@@ -9,9 +9,5 @@
 
 ## Diploma / Certification Repos
 
-> [OpenClassrooms - Front End Developer Diploma Projects](https://github.com/paulAlexSerban/OpenClassrooms-FrontEnd-Developer-Diploma-Projects)
-> [FreeCodeCamp - Responsive Web Design Projects](https://github.com/paulAlexSerban/FreeCodeCamp---Responsive-Web-Design---CERTIFICATION)
-
-### Miscellaneous Technologies
-#### XML Technologies
-* [XML - XSLT - XPath - XQuery](https://github.com/paulAlexSerban/XML-XSLT-XQuery-xPath)
+* [OpenClassrooms - Front End Developer Diploma Projects](https://github.com/paulAlexSerban/OpenClassrooms-FrontEnd-Developer-Diploma-Projects)
+* [FreeCodeCamp - Responsive Web Design Projects](https://github.com/paulAlexSerban/FreeCodeCamp---Responsive-Web-Design---CERTIFICATION)

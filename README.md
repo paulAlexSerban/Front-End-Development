@@ -1,5 +1,7 @@
 # Front End Development Projects
 
+> [OpenClassrooms - Front End Developer Diploma Projects](https://github.com/paulAlexSerban/OpenClassrooms-FrontEnd-Developer-Diploma-Projects)
+
 ## Proof Of Concept Project Repos
 * [Art Brief Bag - An Architect's Portfolio](https://github.com/paulAlexSerban/PWC-Art-Brief-Bag)
 * [Trillo - All in One Bookings](https://github.com/paulAlexSerban/PWC-Trillo-All-in-One-Bookings)
@@ -8,6 +10,8 @@
 * [Film Festival - Landing Page](https://github.com/paulAlexSerban/CSS-Bootstrap-Boston-Film-Festival)
 
 ## Practice Repos
+
+
 
 ### HTML - CSS - JS
 * [Pig Game App. - JS](https://github.com/paulAlexSerban/JS-Pig-Game)

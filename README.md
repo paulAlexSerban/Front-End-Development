@@ -1,11 +1,11 @@
 # Front End Development Projects
 
 ## PoC Repos
-* [Art Brief Bag - An Architect's Portfolio](https://github.com/paulAlexSerban/PWC-Art-Brief-Bag)
 * [Trillo - All in One Bookings](https://github.com/paulAlexSerban/PWC-Trillo-All-in-One-Bookings)
 * [Travel Agency - Landing Page](https://github.com/paulAlexSerban/Travel-Agency-Landing-Page)
 * [Nature Tours Agency - Landing Page](https://github.com/paulAlexSerban/PWC-Nature-Tours)
 * [Film Festival - Landing Page](https://github.com/paulAlexSerban/CSS-Bootstrap-Boston-Film-Festival)
+* [Art Gallery Portfolio](https://github.com/paulAlexSerban/PWC-Art-Brief-Bag)
 
 ## Diploma / Certification Repos
 

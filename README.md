@@ -1,8 +1,6 @@
 # Front End Development Projects
 
 ## PoC Repos
-* [Trillo - All in One Bookings](https://github.com/paulAlexSerban/PWC-Trillo-All-in-One-Bookings)
-* [Travel Agency - Landing Page](https://github.com/paulAlexSerban/Travel-Agency-Landing-Page)
 * [Nature Tours Agency - Landing Page](https://github.com/paulAlexSerban/PWC-Nature-Tours)
 * [Film Festival - Landing Page](https://github.com/paulAlexSerban/CSS-Bootstrap-Boston-Film-Festival)
 * [Art Gallery Portfolio](https://github.com/paulAlexSerban/PWC-Art-Brief-Bag)
